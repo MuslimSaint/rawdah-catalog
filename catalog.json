@@ -1,5 +1,5 @@
 {
-  "version": "2",
+  "version": "3",
   "teachers": [
     {
       "id": "samir",
@@ -58,13 +58,19 @@
       "authorAr": "الإمام يحيى بن شرف النووي",
       "authorEn": "Imam Yahya ibn Sharaf al-Nawawi",
       "authorShort": "الإمام النووي",
-      "branches": ["hadith"],
+      "branches": [
+        "hadith"
+      ],
       "pages": 34,
       "pdfSizeMb": 1.0,
       "hasAudio": true,
-      "teacherIds": ["samir", "misbah", "amin"],
+      "teacherIds": [
+        "samir",
+        "misbah",
+        "amin"
+      ],
       "isNew": true,
-      "audioParts": 10,
+      "audioParts": 46,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/arbaeen.pdf",
       "coverUrl": null,
       "addedAt": "2025-01-01"
@@ -75,11 +81,16 @@
       "authorAr": "ابن حجر العسقلاني",
       "authorEn": "Ibn Hajar al-Asqalani",
       "authorShort": "ابن حجر",
-      "branches": ["hadith", "fiqh"],
+      "branches": [
+        "hadith",
+        "fiqh"
+      ],
       "pages": 576,
       "pdfSizeMb": 11.5,
       "hasAudio": true,
-      "teacherIds": ["amin"],
+      "teacherIds": [
+        "amin"
+      ],
       "isNew": false,
       "audioParts": 45,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/bulugh.pdf",
@@ -92,11 +103,15 @@
       "authorAr": "الشيخ علي بن عدنان الشافعي القادري",
       "authorEn": "Sheikh Ali ibn Adnan al-Shafi'i al-Qadiri",
       "authorShort": "علي القادري",
-      "branches": ["aqeedah"],
+      "branches": [
+        "aqeedah"
+      ],
       "pages": 25,
       "pdfSizeMb": 2.5,
       "hasAudio": true,
-      "teacherIds": ["abubakr"],
+      "teacherIds": [
+        "abubakr"
+      ],
       "isNew": false,
       "audioParts": 8,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/risala.pdf",
@@ -109,11 +124,17 @@
       "authorAr": "قسم الأبحاث والدراسات الإسلامية في الجمعية الإثيوبية الإسلامية للتعليم",
       "authorEn": "Ethiopian Islamic Education Association",
       "authorShort": "الجمعية الإثيوبية الإسلامية",
-      "branches": ["aqeedah", "fiqh"],
+      "branches": [
+        "aqeedah",
+        "fiqh"
+      ],
       "pages": 36,
       "pdfSizeMb": 5.0,
       "hasAudio": true,
-      "teacherIds": ["qasim", "ahmed"],
+      "teacherIds": [
+        "qasim",
+        "ahmed"
+      ],
       "isNew": true,
       "audioParts": 12,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/ilm.pdf",
@@ -126,11 +147,16 @@
       "authorAr": "سالم بن عبد الله بن سعد بن سمير الحضرمي",
       "authorEn": "Salim ibn Abdullah ibn Sa'd ibn Sumayr al-Hadrami",
       "authorShort": "سالم الحضرمي",
-      "branches": ["fiqh"],
+      "branches": [
+        "fiqh"
+      ],
       "pages": 16,
       "pdfSizeMb": 1.0,
       "hasAudio": true,
-      "teacherIds": ["qasim", "amin"],
+      "teacherIds": [
+        "qasim",
+        "amin"
+      ],
       "isNew": false,
       "audioParts": 5,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/safinat.pdf",
@@ -143,11 +169,16 @@
       "authorAr": "أبو شجاع أحمد بن الحسين الأصفهاني",
       "authorEn": "Abu Shuja' Ahmad ibn al-Husayn al-Isfahani",
       "authorShort": "أبو شجاع",
-      "branches": ["fiqh"],
+      "branches": [
+        "fiqh"
+      ],
       "pages": 154,
       "pdfSizeMb": 2.0,
       "hasAudio": true,
-      "teacherIds": ["qasim", "amin"],
+      "teacherIds": [
+        "qasim",
+        "amin"
+      ],
       "isNew": false,
       "audioParts": 20,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/shuja.pdf",
@@ -160,11 +191,15 @@
       "authorAr": "محمد بن نزيه علم الدين، ومحمد بن علي الأطرش",
       "authorEn": "Muhammad ibn Nazih Alam al-Din & Muhammad ibn Ali al-Atrash",
       "authorShort": "علم الدين والأطرش",
-      "branches": ["aqeedah"],
+      "branches": [
+        "aqeedah"
+      ],
       "pages": 110,
       "pdfSizeMb": 4.0,
       "hasAudio": true,
-      "teacherIds": ["ammash"],
+      "teacherIds": [
+        "ammash"
+      ],
       "isNew": false,
       "audioParts": 15,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/qawl.pdf",
@@ -177,11 +212,15 @@
       "authorAr": "أحمد بن لؤلؤ بن عبد الله الرومي",
       "authorEn": "Ahmad ibn Lu'lu' ibn Abdullah al-Rumi",
       "authorShort": "أحمد الرومي",
-      "branches": ["fiqh"],
+      "branches": [
+        "fiqh"
+      ],
       "pages": 600,
       "pdfSizeMb": 15.0,
       "hasAudio": true,
-      "teacherIds": ["amin"],
+      "teacherIds": [
+        "amin"
+      ],
       "isNew": true,
       "audioParts": 50,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/umdat.pdf",
