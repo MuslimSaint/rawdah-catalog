@@ -1,5 +1,5 @@
 {
-  "version": "3",
+  "version": "4",
   "teachers": [
     {
       "id": "samir",
@@ -53,8 +53,8 @@
   ],
   "books": [
     {
-      "id": "arbaeen",
-      "titleAr": "متن الأربعين النووية",
+      "id": "arbaeensamir",
+      "titleAr": "متن الأربعين النووية (شرح الشيخ سمير)",
       "authorAr": "الإمام يحيى بن شرف النووي",
       "authorEn": "Imam Yahya ibn Sharaf al-Nawawi",
       "authorShort": "الإمام النووي",
@@ -65,12 +65,52 @@
       "pdfSizeMb": 1.0,
       "hasAudio": true,
       "teacherIds": [
-        "samir",
-        "misbah",
-        "amin"
+        "samir"
       ],
       "isNew": true,
       "audioParts": 46,
+      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/arbaeen.pdf",
+      "coverUrl": null,
+      "addedAt": "2025-01-01"
+    },
+    {
+      "id": "arbaeenmisbah",
+      "titleAr": "متن الأربعين النووية (شرح الشيخ مصباح)",
+      "authorAr": "الإمام يحيى بن شرف النووي",
+      "authorEn": "Imam Yahya ibn Sharaf al-Nawawi",
+      "authorShort": "الإمام النووي",
+      "branches": [
+        "hadith"
+      ],
+      "pages": 34,
+      "pdfSizeMb": 1.0,
+      "hasAudio": true,
+      "teacherIds": [
+        "misbah"
+      ],
+      "isNew": true,
+      "audioParts": 19,
+      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/arbaeen.pdf",
+      "coverUrl": null,
+      "addedAt": "2025-01-01"
+    },
+    {
+      "id": "arbaeenamin",
+      "titleAr": "متن الأربعين النووية (شرح محمد أمين)",
+      "authorAr": "الإمام يحيى بن شرف النووي",
+      "authorEn": "Imam Yahya ibn Sharaf al-Nawawi",
+      "authorShort": "الإمام النووي",
+      "branches": [
+        "hadith"
+      ],
+      "pages": 34,
+      "pdfSizeMb": 1.0,
+      "hasAudio": true,
+      "teacherIds": [
+        "amin"
+      ],
+      "isNew": true,
+      "audioParts": 12,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/arbaeen.pdf",
       "coverUrl": null,
       "addedAt": "2025-01-01"
