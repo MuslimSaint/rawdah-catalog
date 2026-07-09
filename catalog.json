@@ -4,8 +4,8 @@
   "audioBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books",
   "quranBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran",
   "announcement": {
-    "active": false,
-    "message": "",
+    "active": True,
+    "message": "remove all teacher's ID",
     "type": "info"
   },
   "teachers": [
