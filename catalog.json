@@ -1,5 +1,5 @@
 {
-  "version": "5",
+  "version": "6",
   "minAppVersion": "1.0.0",
   "audioBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books",
   "quranBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran",
@@ -22,13 +22,6 @@
       "nameEn": "Sheikh Misbah Dawud",
       "nameAm": "ሸይኽ ሚስባሕ ዳውድ",
       "initials": "مد"
-    },
-    {
-      "id": "amin",
-      "nameAr": "محمد أمين",
-      "nameEn": "Mohammed Amin",
-      "nameAm": "ኡስታዝ ሙሀመድ አሚን",
-      "initials": "مأ"
     },
     {
       "id": "abubakr",
@@ -86,10 +79,6 @@
         {
           "teacherId": "misbah",
           "parts": [1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19]
-        },
-        {
-          "teacherId": "amin",
-          "parts": [1,2,3,4,5,6,7,8,9,10,11,12]
         }
       ],
       "isNew": true,
@@ -106,10 +95,8 @@
       "branches": ["hadith", "fiqh"],
       "pages": 0,
       "pdfSizeMb": 0,
-      "hasAudio": true,
-      "teacherAudio": [
-        {"teacherId": "amin", "parts": []}
-      ],
+      "hasAudio": false,
+      "teacherAudio": [],
       "isNew": false,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/bulugh.pdf",
       "coverUrl": null,
@@ -163,8 +150,7 @@
       "pdfSizeMb": 0,
       "hasAudio": true,
       "teacherAudio": [
-        {"teacherId": "qasim", "parts": []},
-        {"teacherId": "amin", "parts": []}
+        {"teacherId": "qasim", "parts": []}
       ],
       "isNew": false,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/safinat.pdf",
@@ -182,29 +168,10 @@
       "pdfSizeMb": 0,
       "hasAudio": true,
       "teacherAudio": [
-        {"teacherId": "qasim", "parts": []},
-        {"teacherId": "amin", "parts": []}
+        {"teacherId": "qasim", "parts": []}
       ],
       "isNew": false,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/shuja.pdf",
-      "coverUrl": null,
-      "addedAt": "2025-01-01"
-    },
-    {
-      "id": "qawl",
-      "titleAr": "القول الجلي في حل ألفاظ مختصر عبد الله الهرري",
-      "authorAr": "محمد بن نزيه علم الدين، ومحمد بن علي الأطرش",
-      "authorEn": "Muhammad ibn Nazih Alam al-Din & Muhammad ibn Ali al-Atrash",
-      "authorShort": "علم الدين والأطرش",
-      "branches": ["aqeedah"],
-      "pages": 0,
-      "pdfSizeMb": 0,
-      "hasAudio": true,
-      "teacherAudio": [
-        {"teacherId": "ammash", "parts": []}
-      ],
-      "isNew": false,
-      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/qawl.pdf",
       "coverUrl": null,
       "addedAt": "2025-01-01"
     },
@@ -217,10 +184,8 @@
       "branches": ["fiqh"],
       "pages": 0,
       "pdfSizeMb": 0,
-      "hasAudio": true,
-      "teacherAudio": [
-        {"teacherId": "amin", "parts": []}
-      ],
+      "hasAudio": false,
+      "teacherAudio": [],
       "isNew": true,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/umdat.pdf",
       "coverUrl": null,
@@ -251,4 +216,3 @@
     "surahs": {}
   }
 }
-
