@@ -824,9 +824,9 @@
       {
         "id": "mushaf",
         "type": "mushaf",
-        "titleAr": "المصحف الكامل",
-        "titleEn": "Full Mus'haf",
-        "titleAm": "ሙሉ ሙስሐፍ",
+        "titleAr": "القرآن الكريم",
+        "titleEn": "The Noble Quran",
+        "titleAm": "ቅዱስ ቁርኣን",
         "pdfUrl": "https://s3-us-west-2.amazonaws.com/hammadypublic/quran-kindle/quran-01-30.pdf"
       },
       {
