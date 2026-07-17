@@ -1,5 +1,5 @@
 {
-  "version": "10",
+  "version": "11",
   "minAppVersion": "1.0.0",
   "audioBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books",
   "quranBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran",
@@ -131,7 +131,7 @@
       "pdfSizeMb": 0,
       "hasAudio": true,
       "teacherAudio": [
-        {"teacherId": "qasim", "parts": []},
+        {"teacherId": "qasim", "parts": [1,2,3,4,5,6,7,8,9,10,11,12]},
         {"teacherId": "ahmed", "parts": []}
       ],
       "isNew": true,
@@ -533,4 +533,4 @@
       }
     ]
   }
-    }
+      }
