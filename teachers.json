@@ -1,0 +1,60 @@
+{
+  "teachers": [
+    {
+      "id": "samir",
+      "nameAr": "الشيخ الدكتور سمير سامي القاضي",
+      "nameEn": "Sheikh Dr. Samir Sami Al-Qadi",
+      "nameAm": "Sheikh Dr. Samir Sami Al-Qadi",
+      "initials": "سق"
+    },
+    {
+      "id": "misbah",
+      "nameAr": "الشيخ مصباح داود",
+      "nameEn": "Sheikh Misbah Dawud",
+      "nameAm": "ሸይኽ ሚስባሕ ዳውድ",
+      "initials": "مد"
+    },
+    {
+      "id": "amin",
+      "nameAr": "محمد أمين",
+      "nameEn": "Mohammed Amin",
+      "nameAm": "ኡስታዝ ሙሀመድ አሚን",
+      "initials": "مأ"
+    },
+    {
+      "id": "abubakr",
+      "nameAr": "الدكتور الشيخ أبو بكر سليمان",
+      "nameEn": "Dr. Sheikh Abubakr Suleiman",
+      "nameAm": "ዶክተር ሸይኽ አቡበክር ሱለይማን",
+      "initials": "أس"
+    },
+    {
+      "id": "qasim",
+      "nameAr": "قاسم حسين",
+      "nameEn": "Qasim Hussein",
+      "nameAm": "ኡስታዝ ቃሲም ሁሴን",
+      "initials": "قح"
+    },
+    {
+      "id": "ahmed",
+      "nameAr": "الشيخ أحمد محمد",
+      "nameEn": "Sheikh Ahmed Mohammed",
+      "nameAm": "ሸይኽ አሕመድ ሙሐመድ",
+      "initials": "أم"
+    },
+    {
+      "id": "ammash",
+      "nameAr": "الشيخ الدكتور عبد الرحمن عماش",
+      "nameEn": "Sheikh Dr. Abdul Rahman Ammash",
+      "nameAm": "Sheikh Dr. Abdul Rahman Ammash",
+      "initials": "عم"
+    },
+    {
+      "id": "habib",
+      "nameAr": "حبيب نورو",
+      "nameEn": "Ustaz Habib Nuru",
+      "nameAm": "ኡስታዝ ሀቢብ ኑሩ",
+      "initials": "حن"
+    }
+  ]
+}
