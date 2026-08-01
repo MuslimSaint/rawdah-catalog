@@ -5,63 +5,64 @@
       "nameAr": "الشيخ الدكتور سمير سامي القاضي",
       "nameEn": "Sheikh Dr. Samir Sami Al-Qadi",
       "nameAm": "Sheikh Dr. Samir Sami Al-Qadi",
-      "initials": "سق"
+      "initials": "سق",
+      "photoUrl": ""
     },
     {
       "id": "misbah",
       "nameAr": "الشيخ مصباح داود",
       "nameEn": "Sheikh Misbah Dawud",
       "nameAm": "ሸይኽ ሚስባሕ ዳውድ",
-      "initials": "مد"
+      "initials": "مد",
+      "photoUrl": ""
     },
     {
       "id": "amin",
       "nameAr": "محمد أمين",
       "nameEn": "Mohammed Amin",
       "nameAm": "ኡስታዝ ሙሀመድ አሚን",
-      "initials": "مأ"
+      "initials": "مأ",
+      "photoUrl": ""
     },
     {
       "id": "abubakr",
       "nameAr": "الدكتور الشيخ أبو بكر سليمان",
       "nameEn": "Dr. Sheikh Abubakr Suleiman",
       "nameAm": "ዶክተር ሸይኽ አቡበክር ሱለይማን",
-      "initials": "أس"
+      "initials": "أس",
+      "photoUrl": ""
     },
     {
       "id": "qasim",
       "nameAr": "قاسم حسين",
       "nameEn": "Qasim Hussein",
       "nameAm": "ኡስታዝ ቃሲም ሁሴን",
-      "initials": "قح"
+      "initials": "قح",
+      "photoUrl": ""
     },
     {
       "id": "ahmed",
       "nameAr": "الشيخ أحمد محمد",
       "nameEn": "Sheikh Ahmed Mohammed",
       "nameAm": "ሸይኽ አሕመድ ሙሐመድ",
-      "initials": "أم"
+      "initials": "أم",
+      "photoUrl": ""
     },
     {
       "id": "ammash",
       "nameAr": "الشيخ الدكتور عبد الرحمن عماش",
       "nameEn": "Sheikh Dr. Abdul Rahman Ammash",
       "nameAm": "Sheikh Dr. Abdul Rahman Ammash",
-      "initials": "عم"
+      "initials": "عم",
+      "photoUrl": ""
     },
     {
       "id": "habib",
       "nameAr": "حبيب نورو",
       "nameEn": "Ustaz Habib Nuru",
       "nameAm": "ኡስታዝ ሀቢብ ኑሩ",
-      "initials": "حن"
-    },
-    {
-      "id": "tariqallahham",
-      "nameAr": "الشيخ الدكتور طارق اللحام",
-      "nameEn": "Sheikh Dr. Tariq al-Lahham",
-      "nameAm": "Sheikh Dr. Tariq al-Lahham",
-      "initials": "ط ل"
+      "initials": "حن",
+      "photoUrl": ""
     }
   ]
 }
