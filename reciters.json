@@ -6,7 +6,7 @@
       "nameEn": "Abdulbasit Abdusamad",
       "nameAm": "Abdulbasit Abdusamad",
       "initials": "عب",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_abdulbasit.jpg"
     },
     {
       "id": "husary",
@@ -14,7 +14,7 @@
       "nameEn": "Mahmoud Khalil al-Husary",
       "nameAm": "Mahmoud Khalil al-Husary",
       "initials": "حص",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_husary.jpg"
     },
     {
       "id": "mishary",
@@ -22,7 +22,7 @@
       "nameEn": "Mishary Rashid Alafasy",
       "nameAm": "Mishary Rashid Alafasy",
       "initials": "مش",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_mishary.jpg"
     },
     {
       "id": "minshawi",
@@ -30,7 +30,7 @@
       "nameEn": "Mohamed Siddiq al-Minshawi",
       "nameAm": "Mohamed Siddiq al-Minshawi",
       "initials": "من",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_minshawi.jpg"
     },
     {
       "id": "ismail",
@@ -38,7 +38,7 @@
       "nameEn": "Mustafa Ismail",
       "nameAm": "Mustafa Ismail",
       "initials": "إس",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_ismail.jpg"
     },
     {
       "id": "yasser",
@@ -46,7 +46,7 @@
       "nameEn": "Sheikh Yasser Al-Dosari",
       "nameAm": "Sheikh Yasser Al-Dosari",
       "initials": "يد",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_yasser.jpg"
     },
     {
       "id": "qatami",
@@ -54,7 +54,7 @@
       "nameEn": "Sheikh Nasser Al-Qatami",
       "nameAm": "Sheikh Nasser Al-Qatami",
       "initials": "نق",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_qatami.jpg"
     },
     {
       "id": "hani",
@@ -62,7 +62,7 @@
       "nameEn": "Sheikh Hani Al-Rifai",
       "nameAm": "Sheikh Hani Al-Rifai",
       "initials": "هر",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_hani.jpg"
     },
     {
       "id": "akhdhar",
@@ -70,7 +70,7 @@
       "nameEn": "Sheikh Ibrahim Al-Akhdhar",
       "nameAm": "Sheikh Ibrahim Al-Akhdhar",
       "initials": "إخ",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_akhdhar.jpg"
     },
     {
       "id": "nourin",
@@ -78,7 +78,7 @@
       "nameEn": "Sheikh Noreen Mohammad Siddiq (Duri 'an Abi 'Amr)",
       "nameAm": "Sheikh Noreen Mohammad Siddiq (Duri 'an Abi 'Amr)",
       "initials": "نم",
-      "photoUrl": ""
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_nourin.jpg"
     }
   ]
 }
