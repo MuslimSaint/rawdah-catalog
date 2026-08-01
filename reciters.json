@@ -5,70 +5,80 @@
       "nameAr": "الشيخ عبد الباسط عبد الصمد",
       "nameEn": "Abdulbasit Abdusamad",
       "nameAm": "Abdulbasit Abdusamad",
-      "initials": "عب"
+      "initials": "عب",
+      "photoUrl": ""
     },
     {
       "id": "husary",
       "nameAr": "الشيخ محمود خليل الحصري",
       "nameEn": "Mahmoud Khalil al-Husary",
       "nameAm": "Mahmoud Khalil al-Husary",
-      "initials": "حص"
+      "initials": "حص",
+      "photoUrl": ""
     },
     {
       "id": "mishary",
       "nameAr": "الشيخ مشاري راشد العفاسي",
       "nameEn": "Mishary Rashid Alafasy",
       "nameAm": "Mishary Rashid Alafasy",
-      "initials": "مش"
+      "initials": "مش",
+      "photoUrl": ""
     },
     {
       "id": "minshawi",
       "nameAr": "الشيخ محمد صديق المنشاوي",
       "nameEn": "Mohamed Siddiq al-Minshawi",
       "nameAm": "Mohamed Siddiq al-Minshawi",
-      "initials": "من"
+      "initials": "من",
+      "photoUrl": ""
     },
     {
       "id": "ismail",
       "nameAr": "الشيخ مصطفى إسماعيل",
       "nameEn": "Mustafa Ismail",
       "nameAm": "Mustafa Ismail",
-      "initials": "إس"
+      "initials": "إس",
+      "photoUrl": ""
     },
     {
       "id": "yasser",
       "nameAr": "الشيخ ياسر الدوسري",
       "nameEn": "Sheikh Yasser Al-Dosari",
       "nameAm": "Sheikh Yasser Al-Dosari",
-      "initials": "يد"
+      "initials": "يد",
+      "photoUrl": ""
     },
     {
       "id": "qatami",
       "nameAr": "الشيخ ناصر القطامي",
       "nameEn": "Sheikh Nasser Al-Qatami",
       "nameAm": "Sheikh Nasser Al-Qatami",
-      "initials": "نق"
+      "initials": "نق",
+      "photoUrl": ""
     },
     {
       "id": "hani",
       "nameAr": "الشيخ هاني الرفاعي",
       "nameEn": "Sheikh Hani Al-Rifai",
       "nameAm": "Sheikh Hani Al-Rifai",
-      "initials": "هر"
+      "initials": "هر",
+      "photoUrl": ""
     },
     {
       "id": "akhdhar",
       "nameAr": "الشيخ إبراهيم الأخضر",
       "nameEn": "Sheikh Ibrahim Al-Akhdhar",
       "nameAm": "Sheikh Ibrahim Al-Akhdhar",
-      "initials": "إخ"
+      "initials": "إخ",
+      "photoUrl": ""
     },
     {
       "id": "nourin",
       "nameAr": "الشيخ نورين محمد صديق (رواية الدوري عن أبي عمرو)",
       "nameEn": "Sheikh Noreen Mohammad Siddiq (Duri 'an Abi 'Amr)",
       "nameAm": "Sheikh Noreen Mohammad Siddiq (Duri 'an Abi 'Amr)",
-      "initials": "نم"
+      "initials": "نم",
+      "photoUrl": ""
     }
   ]
 }
