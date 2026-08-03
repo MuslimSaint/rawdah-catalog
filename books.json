@@ -561,22 +561,22 @@
       ]
     },
     {
-      "id": "aqidat-al-awam",
-      "titleAr": "منظومة عقيدة العوام",
-      "authorAr": "الشيخ أحمد بن محمد المرزوقي المالكي",
-      "authorEn": "Sheikh Ahmad ibn Muhammad al-Marzouqi al-Maliki",
-      "authorShort": "المرزوقي",
-      "branches": ["aqeedah"],
-      "pages": 0,
-      "pdfSizeMb": 0,
-      "hasAudio": true,
-      "teacherAudio": [
-        {"teacherId": "yt-awam", "parts": [1]}
-      ],
-      "isNew": true,
-      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/aqidat-al-awam.pdf",
-      "coverUrl": null,
-      "addedAt": "2026-08-03"
-    }
+  "id": "aqidat-al-awam",
+  "titleAr": "منظومة عقيدة العوام",
+  "authorAr": "الشيخ أحمد بن محمد المرزوقي المالكي",
+  "authorEn": "Sheikh Ahmad ibn Muhammad al-Marzouqi al-Maliki",
+  "authorShort": "المرزوقي",
+  "branches": ["aqeedah"],
+  "pages": 0,
+  "pdfSizeMb": 0,
+  "hasAudio": true,
+  "teacherAudio": [
+    {"teacherId": "manzumat-awam", "parts": [1]}
+  ],
+  "isNew": true,
+  "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/aqidat-al-awam.pdf",
+  "coverUrl": null,
+  "addedAt": "2026-08-03"
+}
   ]
 }
