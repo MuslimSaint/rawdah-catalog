@@ -57,11 +57,11 @@
       "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/teacher_omarimam.jpg"
     },
     {
-      "id": "yt-awam",
-      "nameAr": "من يوتيوب",
-      "nameEn": "From YouTube",
-      "nameAm": "From YouTube",
-      "initials": "يت",
+      "id": "manzumat-awam",
+      "nameAr": "منظومة عقيدة العوام",
+      "nameEn": "Manzumat Aqidat al-Awam",
+      "nameAm": "Manzumat Aqidat al-Awam",
+      "initials": "مع",
       "photoUrl": ""
     }
   ]
