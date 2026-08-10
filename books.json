@@ -334,7 +334,7 @@
       "coverUrl": null,
       "addedAt": "2026-07-14",
       "contentTable": [],
-      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/minhaj_toc.json"
+      "contentTableUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/minhaj_toc.json"
     },
     {
       "id": "qasas1",
@@ -514,7 +514,7 @@
       "coverUrl": null,
       "addedAt": "2026-07-31",
       "contentTable": [],
-      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/riyadussalihin_toc.json"
+      "contentTableUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/riyadussalihin_toc.json"
     },
     {
       "id": "aqidat-al-awam",
@@ -554,7 +554,7 @@
       "coverUrl": null,
       "addedAt": "2026-08-07",
       "contentTable": [],
-      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/umdat-ahkam_toc.json"
+      "contentTableUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/umdat-ahkam_toc.json"
     }
   ]
 }
