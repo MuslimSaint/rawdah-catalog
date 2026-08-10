@@ -1,10 +1,10 @@
 {
-  "version": "1",
+  "version": "2",
   "minAppVersion": "1.0.0",
   "audioBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books",
   "quranBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran",
   "announcement": {
-    "active": false,
+    "active": true,
     "message": "New update available! Version 1.0.0.1 — includes new features and catalog improvements.",
     "type": "update",
     "downloadUrl": "https://github.com/MuslimSaint/rawdah-maktaba/releases/download/build-20260810-0352-e0e7111/app-arm64-v8a-release.apk",
