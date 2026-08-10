@@ -7,7 +7,7 @@
     "active": true,
     "message": "New update available! Version 1.0.0.1 — includes new features and catalog improvements.",
     "type": "update",
-    "downloadUrl": "https://github.com/MuslimSaint/rawdah-maktaba/releases/download/build-20260810-1029-56dfda7/app-arm64-v8a-release.apk",
+    "downloadUrl": "https://github.com/MuslimSaint/rawdah-maktaba/releases/download/build-20260810-1119-f2e7869/app-arm64-v8a-release.apk",
     "minVersionToShow": "1.0.0",
     "maxVersionToShow": "1.0.0"
   },
