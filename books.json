@@ -113,7 +113,7 @@
       "coverUrl": null,
       "addedAt": "2025-01-01",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/shuja_toc.json"
     },
     {
       "id": "qawl",
@@ -131,7 +131,7 @@
       "coverUrl": null,
       "addedAt": "2025-01-01",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/qawl_toc.json"
     },
     {
       "id": "umdat",
@@ -205,7 +205,7 @@
       "coverUrl": null,
       "addedAt": "2026-07-14",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/matalib_toc.json"
     },
     {
       "id": "tuhfah",
@@ -259,7 +259,7 @@
       "coverUrl": null,
       "addedAt": "2026-07-14",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/nafais_toc.json"
     },
     {
       "id": "mukhtasar",
