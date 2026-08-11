@@ -295,7 +295,7 @@
       "coverUrl": null,
       "addedAt": "2026-07-14",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/sirat_toc.json"
     },
     {
       "id": "aqidah-muslimin",
@@ -442,7 +442,7 @@
       "coverUrl": null,
       "addedAt": "2026-07-27",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/jamialkhayrat1_toc.json"
     },
     {
       "id": "jamialkhayrat2",
@@ -478,7 +478,7 @@
       "coverUrl": null,
       "addedAt": "2026-07-31",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/jamialkhayrat3_toc.json"
     },
     {
       "id": "jamialkhayrat4",
@@ -496,7 +496,7 @@
       "coverUrl": null,
       "addedAt": "2026-07-31",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/jamialkhayrat4_toc.json"
     },
     {
       "id": "riyadussalihin",
