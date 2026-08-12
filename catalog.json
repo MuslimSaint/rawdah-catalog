@@ -1,5 +1,6 @@
+
 {
-  "version": "8",
+  "version": "9",
   "minAppVersion": "1.0.0",
   "audioBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books",
   "quranBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran",
@@ -19,15 +20,7 @@
     "mushaf": "mushaf.json"
   },
   "settings": {
-    "connectLinks": [
-      {
-        "name": "Rawdah · روضة",
-        "platform": "telegram",
-        "handle": "@JUMadrasabot",
-        "url": "https://t.me/JUMadrasabot",
-        "description": "Islamic Studies & University Materials"
-      }
-    ],
+    "connectLinks": [],
     "faq": [
       {
         "question": "Is everything in this app free?",
@@ -95,85 +88,6 @@
             "handle": "@elmudinIslamicstudio",
             "url": "https://t.me/elmudinIslamicstudio",
             "description": "Updates and materials"
-          }
-        ]
-      },
-      {
-        "nameAr": "فقه الشافعية",
-        "nameEn": "Fiqh Shafi'i",
-        "links": [
-          {
-            "name": "Telegram Channel",
-            "platform": "telegram",
-            "handle": "@fikhi1",
-            "url": "https://t.me/fikhi1",
-            "description": "Shafi'i Fiqh"
-          }
-        ]
-      },
-      {
-        "nameAr": "جمعية المشاريع الخيرية الإسلامية",
-        "nameEn": "Projects Association",
-        "links": [
-          {
-            "name": "YouTube Channel",
-            "platform": "youtube",
-            "handle": "@projectsassociation",
-            "url": "https://youtube.com/@projectsassociation",
-            "description": "Official channel"
-          }
-        ]
-      },
-      {
-        "nameAr": "الشيخ الدكتور طارق اللحام",
-        "nameEn": "Dr. Tariq Lahham",
-        "links": [
-          {
-            "name": "YouTube Channel",
-            "platform": "youtube",
-            "handle": "@drtariklahham",
-            "url": "https://youtube.com/@drtariklahham",
-            "description": "Lectures"
-          },
-          {
-            "name": "Telegram Channel",
-            "platform": "telegram",
-            "handle": "@DrTarikLahham",
-            "url": "https://t.me/DrTarikLahham",
-            "description": "Updates"
-          }
-        ]
-      },
-      {
-        "nameAr": "አስ-ሱናህ ቴቪ",
-        "nameEn": "As-Sunnah TV",
-        "links": [
-          {
-            "name": "YouTube Channel",
-            "platform": "youtube",
-            "handle": "@as-sunnahtvofficial-1",
-            "url": "https://youtube.com/@as-sunnahtvofficial-1",
-            "description": "Islamic TV"
-          },
-          {
-            "name": "TikTok",
-            "platform": "tiktok",
-            "handle": "@assunnah_tv",
-            "url": "https://www.tiktok.com/@assunnah_tv",
-            "description": "Short videos"
-          }
-        ]
-      },
-      {
-        "nameAr": "ሚሳቅ ቲዩብ",
-        "nameEn": "Misaq Tube",
-        "links": [
-          {
-            "name": "YouTube Channel",
-            "platform": "youtube",
-            "handle": "@misaqtube",
-            "url": "https://youtube.com/@misaqtube",
-            "description": "Islamic content"
           }
         ]
       }
