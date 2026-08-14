@@ -1,5 +1,5 @@
 {
-  "version": "9",
+  "version": "7",
   "minAppVersion": "1.0.0",
   "audioBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books",
   "quranBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran",
@@ -19,7 +19,15 @@
     "mushaf": "mushaf.json"
   },
   "settings": {
-    "connectLinks": [],
+    "connectLinks": [
+      {
+        "name": "Rawdah · روضة",
+        "platform": "telegram",
+        "handle": "@JUMadrasabot",
+        "url": "https://t.me/JUMadrasabot",
+        "description": "Islamic Studies & University Materials"
+      }
+    ],
     "faq": [
       {
         "question": "Is everything in this app free?",
@@ -69,27 +77,6 @@
       }
     ],
     "aboutDescription": "مكتبة الروضة is a free Islamic learning app built to make authentic knowledge accessible to every Muslim student. Browse verified PDF books, listen to scholar explanations, and track your learning — all offline after download.",
-    "credits": [
-      {
-        "nameAr": "ዒልሙዲን ኢስላማዊ ስቱዲዮ",
-        "nameEn": "Elmudin Islamic Studio",
-        "links": [
-          {
-            "name": "YouTube Channel",
-            "platform": "youtube",
-            "handle": "@elmudinislamicstudio",
-            "url": "https://youtube.com/@elmudinislamicstudio",
-            "description": "Islamic lectures"
-          },
-          {
-            "name": "Telegram Channel",
-            "platform": "telegram",
-            "handle": "@elmudinIslamicstudio",
-            "url": "https://t.me/elmudinIslamicstudio",
-            "description": "Updates and materials"
-          }
-        ]
-      }
-    ]
+    "credits": []
   }
 }
