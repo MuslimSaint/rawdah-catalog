@@ -590,7 +590,7 @@
       "coverUrl": null,
       "addedAt": "2026-08-18",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/tashil-jamil-tajweed_toc.json"
     },
     {
       "id": "bayquniyyah",
@@ -611,10 +611,10 @@
       "contentTableUrl": ""
     },
     {
-      "id": "lataif-maarif",
-      "titleAr": "لطائف المعارف فيما لمواسم العام من الوظائف",
-      "authorAr": "عبد الرحمن بن أحمد بن رجب الحنبلي",
-      "authorEn": "Abdul Rahman ibn Ahmad ibn Rajab al-Hanbali",
+      "id": "mukhtasar-lataif-maarif",
+      "titleAr": "مختصر لطائف المعارف",
+      "authorAr": "الإمام الحافظ ابن رجب الحنبلي",
+      "authorEn": "Al-Hafiz Ibn Rajab al-Hanbali",
       "authorShort": "ابن رجب الحنبلي",
       "branches": ["hadith"],
       "pages": 0,
@@ -622,7 +622,7 @@
       "hasAudio": false,
       "teacherAudio": [],
       "isNew": true,
-      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/lataif-maarif.pdf",
+      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/mukhtasar-lataif-maarif.pdf",
       "coverUrl": null,
       "addedAt": "2026-08-18",
       "contentTable": [],
@@ -644,7 +644,7 @@
       "coverUrl": null,
       "addedAt": "2026-08-18",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/irshad-annam-siyam_toc.json"
     },
     {
       "id": "fiqh-akbar",
@@ -665,8 +665,8 @@
       "contentTableUrl": ""
     },
     {
-      "id": "fawaid",
-      "titleAr": "الفوائد",
+      "id": "fawaid-1",
+      "titleAr": "الفوائد في العقائد الجزء الأول – حجة الله الدامغة لأهل الزيغ والمشبهة",
       "authorAr": "محمد بن أبي بكر ابن قيم الجوزية",
       "authorEn": "Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyya",
       "authorShort": "ابن قيم الجوزية",
@@ -676,7 +676,43 @@
       "hasAudio": false,
       "teacherAudio": [],
       "isNew": true,
-      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/fawaid.pdf",
+      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/fawaid-1.pdf",
+      "coverUrl": null,
+      "addedAt": "2026-08-18",
+      "contentTable": [],
+      "contentTableUrl": ""
+    },
+    {
+      "id": "fawaid-2",
+      "titleAr": "الفوائد في العقائد الجزء الثاني – حجة الله الدامغة لأهل الزيغ والمشبهة",
+      "authorAr": "محمد بن أبي بكر ابن قيم الجوزية",
+      "authorEn": "Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyya",
+      "authorShort": "ابن قيم الجوزية",
+      "branches": ["aqeedah"],
+      "pages": 0,
+      "pdfSizeMb": 0,
+      "hasAudio": false,
+      "teacherAudio": [],
+      "isNew": true,
+      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/fawaid-2.pdf",
+      "coverUrl": null,
+      "addedAt": "2026-08-18",
+      "contentTable": [],
+      "contentTableUrl": ""
+    },
+    {
+      "id": "fawaid-3",
+      "titleAr": "الفوائد في العقائد الجزء الثالث – حجة الله الدامغة لأهل الزيغ والمشبهة",
+      "authorAr": "محمد بن أبي بكر ابن قيم الجوزية",
+      "authorEn": "Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyya",
+      "authorShort": "ابن قيم الجوزية",
+      "branches": ["aqeedah"],
+      "pages": 0,
+      "pdfSizeMb": 0,
+      "hasAudio": false,
+      "teacherAudio": [],
+      "isNew": true,
+      "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/fawaid-3.pdf",
       "coverUrl": null,
       "addedAt": "2026-08-18",
       "contentTable": [],
@@ -734,7 +770,7 @@
       "coverUrl": null,
       "addedAt": "2026-08-18",
       "contentTable": [],
-      "contentTableUrl": ""
+      "contentTableUrl": "https://raw.githubusercontent.com/MuslimSaint/rawdah-catalog/main/assets/sharh-aqidah-muslimin_toc.json"
     },
     {
       "id": "mujib-muhtaj-isra-miraj",
