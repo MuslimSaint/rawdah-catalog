@@ -1,15 +1,15 @@
 {
-  "version": "18",
+  "version": "19",
   "minAppVersion": "1.0.0",
   "audioBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books",
   "quranBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran",
   "announcement": {
     "active": true,
-    "message": "New update available! Version 1.0.1 — includes hierarchical content tables, search, and improvements.",
-    "type": "update",
-    "downloadUrl": "https://github.com/MuslimSaint/rawdah-maktaba/releases/download/build-20260811-0710-3eb1ebc/app-arm64-v8a-release.apk",
+    "message": "🎉 أهلاً وسهلاً بكم في مكتبة الروضة!\n\nيسرّنا إطلاق التطبيق رسمياً اليوم — منصة مجانية لطلب العلم الشرعي، صدقة جارية لوجه الله تعالى.\n\n📚 ما يحتويه التطبيق:\n• كتب PDF أصيلة في: الفقه، الحديث، العقيدة، اللغة العربية والتجويد، والسيرة النبوية\n• شروحات صوتية من العلماء والمشايخ المعتمدين\n• القرآن الكريم كاملاً — 114 سورة مع تلاوات لعشرة قرّاء، وعدة مصاحف (ملون، غير ملون، المدينة، قطر)\n• الأجزاء الثلاثون من القرآن الكريم\n• جداول محتويات مفصّلة لكل كتاب\n• حفظ تقدّم القراءة والعلامات\n• العمل بدون إنترنت بعد التحميل\n\n🌿 كل المحتوى مجاني بالكامل — لا اشتراكات، لا إعلانات.\n\nنسأل الله تعالى أن يجعله نافعاً لكل طالب علم.\n\n━━━━━━━━━━━━━━━━━━━━━\n\n🎉 Welcome to Maktabatu Rawda!\n\nWe are delighted to officially launch the app today — a free platform for seeking Islamic knowledge, an ongoing charity for the sake of Allah.\n\n📚 What the app includes:\n• Authentic PDF books in: Fiqh, Hadith, Aqeedah, Arabic & Tajweed, and Seerah\n• Audio explanations from trusted scholars and teachers\n• The complete Noble Quran — 114 Surahs with ten reciters, plus multiple Mus'haf editions (Colored, Non-Colored, Medina, Qatar)\n• All 30 Juz of the Noble Quran\n• Detailed content tables for every book\n• Reading progress and bookmarks saved\n• Fully offline after download\n\n🌿 All content is completely free — no subscriptions, no ads.\n\nWe ask Allah to make it beneficial for every student of knowledge.",
+    "type": "info",
+    "downloadUrl": "",
     "minVersionToShow": "",
-    "maxVersionToShow": "1.0.0"
+    "maxVersionToShow": ""
   },
   "includes": {
     "teachers": "teachers.json",
